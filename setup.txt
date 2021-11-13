@@ -1,0 +1,7 @@
+cài đạt thư viện
+imutils
+numpy
+cmake
+dlib
+opencv-python-headless
+playsound
